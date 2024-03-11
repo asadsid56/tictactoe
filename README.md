@@ -1,28 +1,8 @@
 # Project Title
 
-Brief description of your project.
+The grid on which the game is played is three squares by three squares. Your friend, or in this case, the computer, is O, and you are X. Each player places their mark in an empty area in turn. The winner is the first player to receive three of her marks in a row (up, down, across, or diagonally.
 
-![Project Image](image_url_here)
+![Tic Tac Toe]([image_url_here](https://play-lh.googleusercontent.com/DMCZluyKLW6qfEAkHdrh6ZYFsdfqawPX3MC-A3gWcFoXA7VBHMR4s-BWeoqjtdLYZg))
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Installation
-
-Provide instructions on how to install and set up your project. Include any prerequisites that are necessary.
-
-## Usage
-
-Provide examples and instructions for how to use your project. Include screenshots or code snippets if helpful.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for submitting pull requests and reporting issues.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
